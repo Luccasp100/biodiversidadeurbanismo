@@ -9,8 +9,8 @@ function Menu(){
             </section> 
 
             <section className="modalidades-container">
-                <h1 className="menu-titulo">modalidades:</h1>
-                <Link className="menu-estilo-link" to={"/sumarioave"}><h3>fotografia</h3></Link>
+                <h1 className="menu-titulo">Confira os participantes!:</h1>
+                <Link className="menu-estilo-link" to={"/sumarioave"}><h3>Fotografias</h3></Link>
                 <Link className="menu-estilo-link" to={"/sumarioilustracao"}><h3>Ilustrações</h3></Link>
             </section>
         </main>
