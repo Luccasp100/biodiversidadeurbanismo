@@ -1,0 +1,9 @@
+.imagemFundoTotal {
+  /* background-image: url("./assets/Components/Estilos/imagemFundo.jpg"); */
+    background-image: url("./assets/Components/Estilos/ImagemTelaInicial.jpeg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
