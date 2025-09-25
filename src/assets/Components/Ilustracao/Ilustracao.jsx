@@ -21,9 +21,9 @@ function Ilustracao() {
                 <p className="descricao-passaro">{ilustracao.descricao}</p>
 
                 <div className="container-navegacao">
-                    {prevIlustracao && <Link to={`/ilustracao/${prevIlustracao.id}`} className="link-navegacao-esquerda"><img className='seta-img'  src="../../../../public/MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
+                    {prevIlustracao && <Link to={`/ilustracao/${prevIlustracao.id}`} className="link-navegacao-esquerda"><img className='seta-img'  src="../../../../MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
                     <Link to="/sumarioilustracao" className="link-navegacao-sumario">Sumário</Link>
-                    {nextIlustracao && <Link to={`/ilustracao/${nextIlustracao.id}`} className="link-navegacao-direita"><img className='seta-img' src="../../../../public/MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
+                    {nextIlustracao && <Link to={`/ilustracao/${nextIlustracao.id}`} className="link-navegacao-direita"><img className='seta-img' src="../../../../MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
                 </div>
             </section>
         </main>

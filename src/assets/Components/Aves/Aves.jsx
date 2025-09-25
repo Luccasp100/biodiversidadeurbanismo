@@ -21,9 +21,9 @@ function Aves() {
                 <p className="descricao-passaro">{ave.descricao}</p>
 
                 <div className="container-navegacao">
-                    {prevAve && <Link to={`/aves/${prevAve.id}`} className="link-navegacao-esquerda"><img className='seta-img'  src="../../../../public/MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
+                    {prevAve && <Link to={`/aves/${prevAve.id}`} className="link-navegacao-esquerda"><img className='seta-img'  src="../../../../MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
                     <Link to="/sumarioave" className="link-navegacao-sumario">Sumário</Link>
-                    {nextAve && <Link to={`/aves/${nextAve.id}`} className="link-navegacao-direita"><img className='seta-img' src="../../../../public/MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
+                    {nextAve && <Link to={`/aves/${nextAve.id}`} className="link-navegacao-direita"><img className='seta-img' src="../../../../MenuInterecao/SetaDireita.svg" alt="Seta para Direita" /></Link>}
                 </div>
             </section>
         </main>
