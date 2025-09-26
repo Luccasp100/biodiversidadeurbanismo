@@ -319,7 +319,7 @@ export const DadosAves = [
         titulo: "46. Pau-brasil no Centro de Pelotas",
         imagem: "/imagensAves/aveId46.jpg",
         autor: " Felipe Diehl",
-        descricao: "Herbarium Eclipse 1 é parte da série Herbarium Eclipse, que explora as relações entre natureza e linguagem simbólica em contextos urbanos. A imagem parte de registros realizados no Parque de Coqueiros, em Florianópolis, e propõe uma fusão entre o sensível e o conceitual. Através da manipulação digital da fotografia, a obra cria composições visuais que evocam herbários fictícios, eclipsando a distinção entre o orgânico e o abstrato. O resultado convida o espectador a interpretar formas e padrões de maneira subjetiva, sugerindo a construção simbólica da natureza como um campo aberto à imaginação e à memória coletiva."
+        descricao: "Fotografia de exemplar arbóreo de pau-brasil (Paubrasilia echinata) plantado na Praça Coronel Pedro Osório, centro do município de Pelotas."
     },
     {
         id: "47",
