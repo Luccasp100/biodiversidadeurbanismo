@@ -60,8 +60,8 @@ body {
   border-radius: 5px;
 }
 
-.tecnica-imagem{
-    position: absolute;
+.tecnica-imagem {
+  position: absolute;
   bottom: 5px;
   left: 622px;
   font-family: 'Poppins', sans-serif;
@@ -118,7 +118,7 @@ body {
   padding-top: 20px;
 }
 
-.seta-img{
+.seta-img {
   height: 50px;
   width: 50px;
   font-weight: 500;
@@ -139,78 +139,97 @@ body {
 }
 
 @media (max-width: 900px) {
-    .menu-container {
-        flex-direction: column;
-        align-items: center;
-        gap: 1rem;
-    }
-    
-    .modalidades-container, 
-    .explicacao-container {
-        width: 95%;
-        max-width: 95%; 
-    }
+  .menu-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .modalidades-container,
+  .explicacao-container {
+    width: 95%;
+    max-width: 95%;
+  }
 }
 
 @media (max-width: 900px) {
-    .container-card {
-        padding: 15px;
-    }
+  .menu-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
 
-    .titulo-passaro {
-        font-size: 2rem;
-    }
+  .modalidades-container,
+  .explicacao-container {
+    width: 95%;
+    max-width: 95%;
+  }
+}
 
-    .descricao-passaro {
-        font-size: 1.1rem;
-    }
+@media (max-width: 900px) {
+  .container-card {
+    padding: 15px;
+  }
+
+  .titulo-passaro {
+    font-size: 2rem;
+  }
+
+  .descricao-passaro {
+    font-size: 1.1rem;
+  }
 }
 
 @media (max-width: 600px) {
-    .container-pagina {
-        padding: 0.5rem;
-    }
+  .container-pagina {
+    padding: 0.5rem;
+  }
 
-    .container-card {
-        max-width: 100%;
-        padding: 10px;
-    }
+  .container-card {
+    max-width: 100%;
+    padding: 10px;
+  }
 
-    .titulo-passaro {
-        font-size: 1.5rem;
-        margin-bottom: 10px;
-    }
+  .titulo-passaro {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
 
-    .descricao-passaro {
-        font-size: 1rem;
-        line-height: 1.6;
-        margin-bottom: 15px;
-    }
+  .descricao-passaro {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
 
-    .container-navegacao {
-        justify-content: space-between;
-        margin-top: 15px;
-        padding: 0 5px;
-        flex-wrap: wrap; 
-    }
+  .container-navegacao {
+    justify-content: space-between;
+    margin-top: 15px;
+    padding: 0 5px;
+    flex-wrap: wrap;
+  }
 
-    .seta-img {
-        height: 40px;
-        width: 40px;
-    }
+  .seta-img {
+    height: 40px;
+    width: 40px;
+  }
 
-    .link-navegacao-sumario {
-        padding: 10px 15px;
-        font-size: 1rem;
-        padding-top: 15px;
-    }
+  .link-navegacao-sumario {
+    padding: 10px 15px;
+    font-size: 1rem;
+    padding-top: 15px;
+  }
 
-    .autor-imagem {
-        font-size: 0.75rem;
-        padding: 3px 8px;
-    }
+  .autor-imagem {
+    font-size: 0.75rem;
+    padding: 3px 8px;
+  }
 
-    .tecnica-imagem {
-        display: none;
-    }
+  .tecnica-imagem {
+    position: absolute;
+    bottom: 35px;
+    left: 8px;
+    font-size: 0.75rem;
+    padding: 3px 8px;
+  }
+
 }
