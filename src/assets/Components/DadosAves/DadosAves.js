@@ -664,39 +664,46 @@ export const DadosAves = [
         autor: " Maria Elza Macedo Torres Abib",
         descricao: " Uma garça branca com leveza e imponência revela a presença silenciosa da biodiversidade frente a arquitetura urbana em concreto e vidro. Um grande desafio, onde a liberdade e a adaptação da vida resiste e floresce entre estruturas artificias."
     },
-        {
+    {
         id: "96",
         titulo: "96. A Garça-Branca no Passo dos Negros",
         imagem: "/imagensAves/aveId96.JPG",
         autor: " Isadora Silva Simas",
         descricao: "No Passo dos Negros, em Pelotas, a Garça-grande-branca (Ardea alba) repousa com elegância sobre as águas, iluminando o cenário urbano com sua plumagem alva. Sua postura reafirma que a natureza resiste e floresce mesmo onde a cidade cresce."
     },
-        {
+    {
         id: "97",
         titulo: "97. Preá (Cavia aperea): Registro em Ambiente Urbano",
         imagem: "/imagensAves/aveId97.jpg",
         autor: "Kétellin Duarte Gonçalves ",
         descricao: "Registro de um preá (Cavia aperea), realizado na cidade de Bagé, Rio Grande do Sul. Este roedor de pequeno porte possui corpo robusto, patas curtas e orelhas arredondadas. Sua pelagem é densa e de coloração acinzentada. Durante o registro, o animal demonstrou tranquilidade, um comportamento que sugere sua adaptação ao constante movimento de pessoas no local."
     },
-        {
+    {
         id: "98",
         titulo: "98. Leveza e peso",
         imagem: "/imagensAves/aveId98.jpg",
         autor: " Diego Maciel Neves",
         descricao: "Foram-se as asas da vida, permaneceu o peso das paredes. Quantas histórias, quantas vidas foram testemunhadas por essas duras e frias muralhas... Quanta leveza se esvaiu e voou, voou... No diverso palco urbano, o concreto e o etéreo se entrelaçam na dança da história. E a quem aceitar o convite da contemplação, fica a pergunta: nessa dança, quem somos? Casulo de mariposa. No segundo plano, janela da igreja São Pedro de Bom Jardim, em Ivoti/RS."
     },
-        {
+    {
         id: "99",
         titulo: "99. Enquanto houver brechas, haverá vida",
         imagem: "/imagensAves/aveId99.jpg",
         autor: " Pedro da Rocha Fernandes",
         descricao: "Em uma tarde ensoladara, na vida cotidiana da Praça Coronel Pedro Osório, a sua pluralidade de vida se expressa nos menores espaços possíveis, despercebidos pela maioria."
     },
-        {
+    {
         id: "100",
         titulo: "100. Cotidiano Formigueiro",
         imagem: "/imagensAves/aveId100.jpg",
         autor: " Luiza Tolfo Karsburg ",
         descricao: " As formigas são bioindicadoras valiosas da biodiversidade urbana. Elas desempenham papéis ecológicos importantes, como dispersão de sementes e controle de pragas. A presença de diferentes espécies de formigas em áreas urbanas pode indicar a qualidade ambiental e a saúde dos ecossistemas locais. Assim, essa fotografia é um retrato do cotidiano dessas formigas."
     },
+    {
+        id: "101",
+        titulo: "101. Uma pomba sozinha",
+        imagem: "/imagensAves/aveId101.jpeg",
+        autor: " Tania Maria Lara Estivalet",
+        descricao: " Uma pomba multicolor parada em um canto de uma praça em Pelotas. Ela parece estar perdida em seus pensamentos, sem companhia, mas na realidade apenas parou para ser fotografada e mostrar a importância da conexão com a vida."
+    }
 ]
